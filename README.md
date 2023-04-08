@@ -1,17 +1,18 @@
 # Stdte MPower File Exporter
 
-## spec
+## python version
 
-- [python3.7.9](https://www.python.org/downloads/release/python-379)
+- [Python 3.7.9](https://www.python.org/downloads/release/python-379)
+- [Python 3.10.9](https://www.python.org/downloads/release/python-3109)
 
-## .env
-
-```
-PASSWORD = p@5sw0rd
-```
-
-## init
+## install packages
 
 ```
-pip install -r package.txt
+pip3 install -r package.conf
+```
+
+## .password
+
+```
+mpower
 ```
